@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "base_track": "for you",
+  "base_artist": "Yvng xan",
+  "createdAt": "2026-03-06T13:25:37.369399Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Do It All for You",
+      "artist": "Alan Walker feat. Trevor Guthrie",
+      "has_synced": true,
+      "path": "select/01_Do_It_All_for_You_Alan_Walker_feat._Trevor_Guthrie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Do It All for You",
+      "artist": "Alan Walker;Trevor Guthrie",
+      "has_synced": true,
+      "path": "select/02_Do_It_All_for_You_Alan_Walker;Trevor_Guthrie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bad For You",
+      "artist": "The SteelDrivers",
+      "has_synced": false,
+      "path": "select/03_Bad_For_You_The_SteelDrivers.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Feel For You",
+      "artist": "Boy Named Banjo",
+      "has_synced": true,
+      "path": "select/04_Feel_For_You_Boy_Named_Banjo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "For You",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/05_For_You_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "For You",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/06_For_You_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Have I Got A Deal For You",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/07_Have_I_Got_A_Deal_For_You_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Do For You",
+      "artist": "Dillon Carmichael",
+      "has_synced": true,
+      "path": "select/08_I_Do_For_You_Dillon_Carmichael.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Feel for You",
+      "artist": "Charley Crockett",
+      "has_synced": false,
+      "path": "select/09_I_Feel_for_You_Charley_Crockett.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'll Wait for You",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/10_I'll_Wait_for_You_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I've Cried My Last Tear For You",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/11_I've_Cried_My_Last_Tear_For_You_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I've Cried My Last Tear For You (Album Version)",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/12_I've_Cried_My_Last_Tear_For_You_(Album_Version)_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It's Only Over for You",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/13_It's_Only_Over_for_You_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It's Only Over For You",
+      "artist": "Tanya Tucker",
+      "has_synced": false,
+      "path": "select/14_It's_Only_Over_For_You_Tanya_Tucker.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Made for You",
+      "artist": "Jake Owen",
+      "has_synced": true,
+      "path": "select/15_Made_for_You_Jake_Owen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Prayed for You",
+      "artist": "Matt Stell",
+      "has_synced": true,
+      "path": "select/16_Prayed_for_You_Matt_Stell.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Prayed For You",
+      "artist": "Matt Stell",
+      "has_synced": true,
+      "path": "select/17_Prayed_For_You_Matt_Stell.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Country Girl (Shake It For Me)",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/18_Country_Girl_(Shake_It_For_Me)_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "For What It’s Worth",
+      "artist": "Buffalo Springfield",
+      "has_synced": true,
+      "path": "select/19_For_What_It’s_Worth_Buffalo_Springfield.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Holding out for a Hero",
+      "artist": "Bonnie Tyler",
+      "has_synced": true,
+      "path": "select/20_Holding_out_for_a_Hero_Bonnie_Tyler.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Hymn for the Weekend",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/21_Hymn_for_the_Weekend_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "If It Wasn’t For Trucks",
+      "artist": "Riley Green",
+      "has_synced": true,
+      "path": "select/22_If_It_Wasn’t_For_Trucks_Riley_Green.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Paying For It (feat. Walker Hayes)",
+      "artist": "Levi Hummon feat. Walker Hayes",
+      "has_synced": true,
+      "path": "select/23_Paying_For_It_(feat._Walker_Hayes)_Levi_Hummon_feat._Walker_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Paying For It",
+      "artist": "Levi Hummon",
+      "has_synced": true,
+      "path": "select/24_Paying_For_It_Levi_Hummon.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "WAIT FOR U (feat. Drake & Tems)",
+      "artist": "Future feat. Tems & Drake",
+      "has_synced": true,
+      "path": "select/25_WAIT_FOR_U_(feat._Drake_&_Tems)_Future_feat._Tems_&_Drake.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "What I Wasn't Lookin' for",
+      "artist": "Ryan Robinette",
+      "has_synced": false,
+      "path": "select/26_What_I_Wasn't_Lookin'_for_Ryan_Robinette.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Fishing for Fishies",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/27_Fishing_for_Fishies_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Fishing For Fishies",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/28_Fishing_For_Fishies_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Mars For The Rich",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/29_Mars_For_The_Rich_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "for you",
+      "artist": "Yvng xan",
+      "has_synced": false,
+      "path": "select/pl_01_for_you_Yvng_xan.txt"
+    }
+  ]
+}
